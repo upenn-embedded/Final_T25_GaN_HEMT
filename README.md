@@ -6,13 +6,13 @@
 
 | Team Member Name | Email Address       |
 |------------------|---------------------|
-| [Name 1]         | [Email 1]           |
-| [Name 2]         | [Email 2]           |
-| [Name 3]         | [Email 3]           |
+| Tanxuan Li         | jeffli88@seas.upenn.edu           |
+| Xiao Wang         | wang96@seas.upenn.edu           |
+| Zhenyao Liu         | liu59@seas.upenn.edu           |
 
-**GitHub Repository URL:**
+**GitHub Repository URL:** [GaN HEMT](https://github.com/upenn-embedded/ESE5190-Fianl-Project-T25.git)
 
-**GitHub Pages Website URL:** [for final submission]*
+**GitHub Pages Website URL:** [GaN HEMT](https://upenn-embedded.github.io/Final_T25_GaN_HEMT) 
 
 ## Final Project Proposal
 
