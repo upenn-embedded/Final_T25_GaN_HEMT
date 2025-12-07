@@ -1,8 +1,8 @@
 # final-project-skeleton
 
-**Team Number:**
+**Team Number:** 25
 
-**Team Name:**
+**Team Name:** GaN HEMT
 
 | Team Member Name | Email Address       |
 |------------------|---------------------|
